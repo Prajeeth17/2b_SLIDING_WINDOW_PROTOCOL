@@ -1,4 +1,4 @@
-# Ex. NO:2b Implementation Of Sliding Window Protocol
+# Ex. No:2b Implementation Of Sliding Window Protocol
 ## AIM:
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
